@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahin Nayak</h1>
 <h3 align="center">Enthusiastic student with a keen interest in full-stack web development and Java, dedicated to creating dynamic and scalable digital solutions.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nayaksahin2002@gmail.com</h3>
 <p align="left">
 </p>
 
