@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahin Nayak</h1>
+<h1 align="center">Hi, I'm Sahin Nayak</h1>
 <h3 align="center">Enthusiastic student with a keen interest in full-stack web development and Java, dedicated to creating dynamic and scalable digital solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahin-Nayak&label=Profile%20views&color=0e75b6&style=flat" alt="Sahin-Nayak" /> </p>
 
